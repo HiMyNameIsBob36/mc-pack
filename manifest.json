@@ -1,8 +1,8 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "Purple",
-		"description": "Bedrock Tweaks §aResource Packs§r\nSelected Packs:\n- Aesthetic:\n - Softer Wool\n - Red Iron Golem Flowers\n - Rename 'Stem' to 'Log'\n - HD Shield Banner Patterns\n - Colorful Enchanting Table Particles\n - Splash Bottle o' Enchanting\n- Terrain:\n - Lush Grass All 'Round!\n - Golden Savanna\n - Circular Log Tops\n - Smoother Oak Log\n - Clearer Water\n - Brighter Nether\n - Fancy Sunflowers\n - Shorter Short Grass\n - Shorter Tall Grass\n- Variation:\n - Variated Dirt\n - Variated Grass\n - Variated Cobblestone\n - Variated Moss\n - Variated Red Mushroom Blocks\n - Variated End Stone\n - Variated Gravel\n - Variated Mycelium\n - Variated Planks\n - Variated Stone\n - Variated Terracotta\n - Variated Unpolished Stones\n - Variated Bookshelves\n- Terrain / Lower and Sides:\n - Lower Grass\n - Lower Mycelium\n - Lower Grass Paths\n - Lower Podzol\n - Lower Snow\n - Lower Crimson Nylium\n - Lower Warped Nylium\n- Peace and Quiet:\n - Quieter Rain\n - Quieter Thunder\n- Peace and Quiet / Mobs:\n - Quieter Villagers\n- Utility:\n - Ore Borders\n - Suspicious Sand & Gravel Borders\n - Fully Aged Crop Marker\n - Fully Aged Amethyst Cluster Marker\n - Visual Waxed Copper (Items)\n - Visual Infested Stone (Items)\n - Budding Amethyst Borders\n - Different Stems\n - Music Disc Redstone Level Preview\n - Hunger Preview\n - Sticky Piston Sides\n - Directional Hoppers\n - Directional Observers\n - Clean Redstone Dust\n - Visible Tripwires\n - Compass Lodestone\n - Brewing Guide\n - Arabic Numerals\n- Unobtrusive:\n - Unobtrusive Rain\n - Unobtrusive Snow\n - Unobtrusive Particles\n - Borderless Glass\n - Borderless Stained Glass\n - Unobtrusive Scaffolding\n - Lower Shield\n - No Pumpkin Overlay\n - Borderless Tinted Glass\n - Lower Fire\n - No Vignette\n - Invisible Totem\n- 3D:\n - 3D Mace\n - 3D Sun & Moon\n- GUI:\n - Dark UI\n - Numbered Hotbar\n - Hotbar-Style Inventory Slot Highlight\n - Bedrock Edition Title\n - Clearer Wither Hearts\n - Rainbow Experience Bar\n - Translucent Tooltips\n - Trading Helper\n - Quick Crafting\n - Chat Tweaks\n - No How To Play\n- GUI / Fonts:\n - Smooth Font\n- GUI / Crosshairs:\n - Smaller Crosshair\n- GUI / Hearts:\n - Purple Hearts\n- GUI / Hunger Bars:\n - Beef Hunger Bar\n- GUI / Hotbar Selector:\n - Purple Hotbar Selector\n- Retro:\n - Rename 'Dirt Path' to 'Grass Path'\n- Fun:\n - Smiley Axolotls\n - Beeralis\n - Technoblade Pigs\n - WHAT\n- World of Color / Slimes:\n - Purple Slime\n- World of Color / Elytra:\n - Purple Elytra\n- World of Color / Enchantment Glints:\n - Blue Enchantment Glint\n- Fixes and Consistency:\n - Brighter Rib Armor Trim\n\nCombinations:\n - extras/dirt/golden_savanna_lush_grass\n - extras/terrain/lush_grass_clearer_water\n - extras/terrain/brighter_lower_crimson_nylium\n - extras/terrain/brighter_lower_warped_nylium\n - extras/terrain/brighter_lower_crimson_warped_nylium\n - extras/ores/brighter_nether_ore_borders\n - extras/unobtrusive/unobtrusive_rain_and_snow\n - extras/hunger_preview/beef_hunger_preview",
+		"name": "HeyItsBob36",
+		"description": "Download the pack that @HeyItsBob uses in his videos!\n§oNot all assests are original.",
 		"uuid": "24fab5c3-1a6d-497a-b746-53e8bceb6b40",
 		"version": [
 			1,
@@ -28,10 +28,7 @@
 	],
 	"metadata": {
 		"authors": [
-			"Bedrock Tweaks",
-			"Bedrock Tweaks Community",
-			"DrAv0011",
-			"Vanilla Tweaks"
+			"HeyItsBob36"
 		]
 	}
 }
