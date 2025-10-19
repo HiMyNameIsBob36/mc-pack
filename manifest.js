@@ -13,7 +13,7 @@
 			"uuid": "f8a80690-b648-4766-ae79-7a87c11fe805",
 			"version": [ 1, 0, 0 ]
 		}
-	   ],
+	],
     "subpacks": [
         {
             "folder_name": "noinfo",
