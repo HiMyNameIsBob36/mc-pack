@@ -17,7 +17,7 @@
     "subpacks": [
         {
             "folder_name": "white",
-            "name": "The following textures will change to §lWHITE:n\- Hotbar outline\n- XP bar\n- Hearts\n- Elytra\n- Enchantment glint\n\n",
+            "name": "The following textures will change to §lWHITE:\n- Hotbar outline\n- XP bar\n- Hearts\n- Elytra\n- Enchantment glint\n\n",
             "memory_tier": 1
         },
         {
