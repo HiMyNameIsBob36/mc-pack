@@ -4,15 +4,8 @@
 		"name": "HeyItsBob36",
 		"description": "Download the pack that @HeyItsBob uses in his videos!\n§oNot all assests are original.",
 		"uuid": "24fab5c3-1a6d-497a-b746-53e8bceb6b40",
-		"version": [
-			1,
-			0,
-			0
-		],
-		"min_engine_version": [
-			1,
-			21,
-			100
+		"version": [ 1, 0, 0 ],
+		"min_engine_version": [ 1, 21, 100
 		]
 	},
 	"modules": [
