@@ -16,12 +16,12 @@
 	],
     "subpacks": [
         {
-            "folder_name": "noinfo",
-            "name": "§lNO§r Item Info\n\n\n(It doesnt contain Item Info)\n\n\n",
+            "folder_name": "white",
+            "name": "§lWhite\n\n\n",
             "memory_tier": 1
         },
         {
-            "folder_name": "basic",
+            "folder_name": "black",
             "name": "Only §l§bBasic§r Item Info\n\nMob HP & Hostility on Spawn Eggs, Duration of Music Discs, Banner & Firework Pattern Icons.§r\n\n(Every Subpack contains these)",
             "memory_tier": 2
         },
