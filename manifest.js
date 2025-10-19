@@ -17,47 +17,47 @@
     "subpacks": [
         {
             "folder_name": "white",
-            "name": "The following textures will change to §lWHITE:\n- Hotbar outline\n- XP bar\n- Hearts\n- Elytra\n- Enchantment glint\n\n",
+            "name": "The following textures will change to §lWHITE§r:\n- Hotbar outline\n- XP bar\n- Hearts\n- Elytra\n- Enchantment glint\n\n",
             "memory_tier": 1
         },
         {
             "folder_name": "black",
-            "name": "Only §l§bBasic§r Item Info\n\nMob HP & Hostility on Spawn Eggs, Duration of Music Discs, Banner & Firework Pattern Icons.§r\n\n(Every Subpack contains these)",
+            "name": "The following textures will change to §l§0BLACK§r:\n- Hotbar outline\n- XP bar\n- Hearts\n- Elytra\n- Enchantment glint\n\n",
             "memory_tier": 2
         },
         {
-            "folder_name": "fatlight",
-            "name": "§l§aFAT§r, §l§eLight§r Info\n\nHunger, Saturation, Time To Use Consumables, Armor Points, Max Item Durability, Attack Damage, Light Level Icons.§r\n\n(Including §l§bBasic§r Item Info)",
+            "folder_name": "red",
+            "name": "The following textures will change to §l§cRED§r:\n- Hotbar outline\n- XP bar\n- Hearts\n- Elytra\n- Enchantment glint\n\n",
             "memory_tier": 3
         },
         {
-            "folder_name": "enchantlight",
-            "name": "§l§dEnchant§r, §l§eLight§r Info\n\nEnchantment, Light Level Icons.§r\n\n\n(Including §l§bBasic§r Item Info)",
+            "folder_name": "orange",
+            "name": "The following textures will change to §l§6ORANGE§r:\n- Hotbar outline\n- XP bar\n- Hearts\n- Elytra\n- Enchantment glint\n\n",
             "memory_tier": 4
         },
         {
-            "folder_name": "fatenchant",
-            "name": "§l§aFAT§r, §l§dEnchant§r Info\n\nHunger, Saturation, Time To Use Consumables, Armor Points, Max Item Durability, Attack Damage, Enchantment Icons.§r\n\n(Including §l§bBasic§r Item Info)",
+            "folder_name": "yellow",
+            "name": "The following textures will change to §l§eYELLOW§r:\n- Hotbar outline\n- XP bar\n- Hearts\n- Elytra\n- Enchantment glint\n\n",
             "memory_tier": 5
         },
         {
-            "folder_name": "light",
-            "name": "§l§eLight§r Info\n\nLight Level Icons.§r\n\n\n(Including §l§bBasic§r Item Info)",
+            "folder_name": "green",
+            "name": "The following textures will change to §l§aGREEN§r:\n- Hotbar outline\n- XP bar\n- Hearts\n- Elytra\n- Enchantment glint\n\n",
             "memory_tier": 6
         },
         {
-            "folder_name": "enchant",
-            "name": "§l§dEnchant§r Summary\n\nEnchantment Icons.§r\n\n\n(Including §l§bBasic§r Item Info)",
+            "folder_name": "lightblue",
+            "name": "The following textures will change to §l§bLIGHT BLUE§r:\n- Hotbar outline\n- XP bar\n- Hearts\n- Elytra\n- Enchantment glint\n\n",
             "memory_tier": 7
         },
         {
-            "folder_name": "fat",
-            "name": "§l§aF§rood, §l§aA§rrmor, §l§aT§rools Info\n\nHunger, Saturation, Time To Use Consumables, Armor Points, Max Item Durability, Attack Damage Icons.§r\n\n(Including §l§bBasic§r Item Info)",
+            "folder_name": "blue",
+            "name": "The following textures will change to §l§9BLUE§r:\n- Hotbar outline\n- XP bar\n- Hearts\n- Elytra\n- Enchantment glint\n\n",
             "memory_tier": 8
         },
         {
-            "folder_name": "whole",
-            "name": "Item Info (§lFull§r)\n\nHunger, Saturation, Time To Use Consumables, Armor Points, Max Item Durability, Attack Damage, Enchantment, Light Level Icons.§r\n(Including §l§bBasic§r Item Info)",
+            "folder_name": "purple",
+            "name": "The following textures will change to §l§uPURPLE§r:\n- Hotbar outline\n- XP bar\n- Hearts\n- Elytra\n- Enchantment glint\n\n",
             "memory_tier": 9
         }
     ]
