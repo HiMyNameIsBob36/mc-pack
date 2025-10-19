@@ -59,6 +59,11 @@
             "folder_name": "purple",
             "name": "The following textures will change to §l§uPURPLE§r:\n- Hotbar outline\n- XP bar\n- Hearts\n- Elytra\n- Enchantment glint\n\n",
             "memory_tier": 9
-        }
+        },
+		{
+            "folder_name": "pink",
+            "name": "The following textures will change to §l§dPINK§r:\n- Hotbar outline\n- XP bar\n- Hearts\n- Elytra\n- Enchantment glint\n\n",
+            "memory_tier": 10
+        },
     ]
 }
