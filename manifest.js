@@ -17,7 +17,7 @@
     "subpacks": [
         {
             "folder_name": "white",
-            "name": "Your hotbar, hearts, elytra and slimes will change to §lWHITE\n\n\n",
+            "name": "Your hotbar outline, XP bar, hearts, elytra, enchantment glint and slimes will change to §lWHITE\n\n\n",
             "memory_tier": 1
         },
         {
