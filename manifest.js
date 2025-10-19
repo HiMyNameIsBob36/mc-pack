@@ -22,7 +22,7 @@
         },
         {
             "folder_name": "black",
-            "name": "The following textures will change to §l§0BLACK§r:\n- Hotbar outline\n- XP bar\n- Hearts\n- Elytra\n- Enchantment glint\n\n",
+            "name": "The following textures will change to §l§8BLACK§r:\n- Hotbar outline\n- XP bar\n- Hearts\n- Elytra\n- Enchantment glint\n\n",
             "memory_tier": 2
         },
         {
