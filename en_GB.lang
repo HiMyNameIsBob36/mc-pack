@@ -52,6 +52,9 @@ effect.badOmen=§cBad Omen§7
 effect.raid_omen=§cRaid Omen§7
 effect.trial_omen=§cTrial Omen§7
 
+# Display
+map.position= §aX: %s §cY: %s §eZ: %s
+hudScreen.daysPlayed= Days Played: §b%s
 
 ## ENCHANT SUMMARY
 enchantment.arrowDamage= Power
@@ -1163,4 +1166,5 @@ item.fireworksCharge.type.0= Small Ball
 item.fireworksCharge.type.1= Large Ball
 item.fireworksCharge.type.2= Star-shaped
 item.fireworksCharge.type.3= Creeper-shaped
+
 item.fireworksCharge.type.4= Burst
