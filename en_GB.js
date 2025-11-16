@@ -52,7 +52,7 @@ effect.badOmen=§cBad Omen§7
 effect.raid_omen=§cRaid Omen§7
 effect.trial_omen=§cTrial Omen§7
 
-# Display
+## Display
 map.position= §aX: %s §cY: %s §eZ: %s
 hudScreen.daysPlayed= Days Played: §b%s
 
@@ -1168,3 +1168,4 @@ item.fireworksCharge.type.2= Star-shaped
 item.fireworksCharge.type.3= Creeper-shaped
 
 item.fireworksCharge.type.4= Burst
+
